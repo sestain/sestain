@@ -9,4 +9,4 @@ You can contact me via:
 - **Discord**: *Sestain#5799*
 - **Steam**: *[/id/sestain](https://steamcommunity.com/id/sestain/)*
 - **Onetap**: *[sestain](https://www.onetap.com/members/sestain.1702/)*
-- **Aimware**: *[sestain](https://aimware.net/forum/user/219942/)*
+- **Aimware**: *[Sestain](https://aimware.net/forum/user/219942/)*
