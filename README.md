@@ -1,6 +1,6 @@
 # About me
 
-Hello, my name is Sestain and I am programmer. Most of my work is directed towards video game cheating. My current primary coding language is C++, although I can also program in C, C#, Java, Lua, JS and HTML.
+Hello, my name is Sestain and I am programmer. Most of my work is directed towards video game cheating. My current primary coding language is C++, although I can also develop in C, C#, Java, Lua, JS and HTML.
 
 ## Contact me
 
