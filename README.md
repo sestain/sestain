@@ -7,4 +7,3 @@ Hello, my name is Sestain. Most of my work is directed towards video game or con
 You can contact me via:
 
 - **Discord**: *Sestain#5799*
-- **Steam**: *[/id/sestain](https://steamcommunity.com/id/sestain/)*
